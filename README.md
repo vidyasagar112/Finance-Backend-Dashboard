@@ -64,7 +64,7 @@ src/main/java/com/finance/dashboard/
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone <my repi url>
 cd dashboard
 
 # 2. Run the application
